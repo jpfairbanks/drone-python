@@ -47,3 +47,5 @@ drone-python is licensed under the MIT License.
 .. _Gitter room: https://gitter.im/drone/drone-python
 .. _issue tracker: https://github.com/drone/drone-python/issues
 .. _Drone Discussion site: https://discuss.drone.io/c/plugins-and-apis/python
+
+This change is to test drone ci
